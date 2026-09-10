@@ -1,0 +1,9 @@
+{
+  "name": "SaaS Imob Plataforma",
+  "short_name": "SaaS Imob",
+  "start_url": "https://script.google.com/macros/s/SEU_LINK_DO_APPS_SCRIPT/exec",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait"
+}
